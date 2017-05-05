@@ -1,4 +1,4 @@
-<?php get_header("home"); ?>
+<?php get_header(); ?>
 <body>
 
 	<h1 class="page-heading max-width"> 
@@ -17,6 +17,4 @@
 		<?php get_sidebar(); ?>
 	</div>
 
-<?php get_footer(); ?>
-</body>
-</html>
+
