@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-<body>
+
 
 	<h1 class="page-heading max-width"> 
 		Categoría: 	<?php single_cat_title(); ?>		

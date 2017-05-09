@@ -5,7 +5,7 @@
 ?>
 
 <?php get_header(); ?>
-<body>
+
 	
 <?php 
 

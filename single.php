@@ -1,5 +1,4 @@
 <?php get_header(); ?>
-<body>
 
 
 	<div class="grid max-width">

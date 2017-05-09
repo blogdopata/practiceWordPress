@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-<body>
+
 
 	<h1 class="page-heading max-width"> 
 		<?php bloginfo(admin_email); ?>		

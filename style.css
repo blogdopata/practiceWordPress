@@ -1398,7 +1398,7 @@ nav {
 }
 
 
-.nav__listli {
+.nav__list li {
   display: inline-block;
   line-height: 3;
   background-color: #92d155;
@@ -1409,9 +1409,9 @@ nav {
 }
 
 
-.nav__listlia {
+.nav__list li a {
   color: white;
 }
-.nav__listlia:visited {
+.nav__list li a:visited {
   color: white;
 }
